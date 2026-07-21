@@ -35,7 +35,7 @@
 
 ## 🚀 Live Demo
 
-> 🌐 **Try it live** → [**https://your-app-name.streamlit.app**](https://your-app-name.streamlit.app)
+> 🌐 **Try it live** → [**https://your-app-name.streamlit.app**](https://agentic-app-hrcxcb25qwgcjdsr4tyunc.streamlit.app/)
 
 *(Deploy to Streamlit Cloud and update this link)*
 
