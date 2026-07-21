@@ -23,7 +23,7 @@
 
 > 📺 **Watch the full walkthrough on YouTube / Loom** *(Upload your screen recording and paste the URL below)*
 
-[![AgentIQ Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![AgentIQ Demo Video](https://youtu.be/ps3DriNa02c)
 
 > 🎯 **Click the thumbnail above** to watch the demo. The video covers:
 > - Live chat with different AI personalities
